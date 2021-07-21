@@ -15,5 +15,5 @@ Bluetooth controlled car is controlled by using Android mobile phone instead of 
  Robot chassis,
  Photoresistor(LDR), and
  Ultrasound sensor.
-#             
-![](final%20image.jpeg)
+#
+<img src = final%20image.jpeg width = 300>
