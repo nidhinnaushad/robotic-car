@@ -16,4 +16,6 @@ Bluetooth controlled car is controlled by using Android mobile phone instead of 
  Photoresistor(LDR), and
  Ultrasound sensor.
 #
-<img src = final%20image.jpeg width = 300>
+<img src = final%20image.jpeg width = 300> <br/>
+#
+**Resources: [YouTube](https://www.youtube.com/watch?v=nUas-A0THDo)**
