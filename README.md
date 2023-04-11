@@ -14,5 +14,5 @@ Added features of this robot include obstacle detecting, implemented using an un
  Photoresistor LDR, and
  Ultrasonic sensor HC-SR04.
 #
-<img src = final%20image.jpeg width = 300> <br/>
+<img src = final%20image.jpeg width = 300> <img src = img.JPG width = 290> <br/>
 
