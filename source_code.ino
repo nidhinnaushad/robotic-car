@@ -30,12 +30,12 @@ digitalWrite(trigger_pin, LOW);
 duration = pulseIn(echo_pin, HIGH); //listens and waits for return signal
 distance = (duration/2) / 29.1;
 
-if (distance < 100){
+if (distance < 100){               //moves behind if obstacle is detected
   digitalWrite(12,HIGH);
   digitalWrite(10,HIGH);
   digitalWrite(13,LOW);
   digitalWrite(11,LOW);
-  delay(100);
+  delay(170);
 }
 else {
 if(Serial.available()){
